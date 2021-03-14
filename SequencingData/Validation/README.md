@@ -4,4 +4,4 @@ Peptide lists for the original selection ('replicate 1') and a replicate selecti
 
 Processing files include a Bash file for assembling paired-end reads via PANDAseq (Masella et al, BMC Bioinformatics 2012) and Jupyter Notebook for extracting and filtering peptide sequences.
 
-Deep sequencing data are deposited on the NCBI Sequence Read Archive (SRA) with accession code PRJNA708266. 
+Deep sequencing data are deposited on the NCBI Sequence Read Archive (SRA) with accession code PRJNA708266 (https://www.ncbi.nlm.nih.gov/sra/PRJNA708266). 
